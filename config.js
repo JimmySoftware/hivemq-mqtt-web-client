@@ -1,2 +1,2 @@
-websocketserver = 'broker.mqttdashboard.com';
-websocketport = 8000;
+var websocketserver = 'log.jbin.io';
+var websocketport = 9003;
